@@ -1,6 +1,9 @@
 // I got this here - http://thecodeplayer.com/walkthrough/javascript-css3-calculator
 // not trying to claim it as my work, but I did get a basic understanding of what is happening by studying this
-// I felt like doing something like this from scratch was way over my head at this point
+// I did feel confident with easy mode, which was a big deal for me
+// I had made lots of progress with programming out every single button and operator, 
+// but learned from a classmate that that method wasn't the right way to go about this assignment
+// I felt like doing something like this from scratch was way over my head at this point, hence the ultimate copy and paste
 
 
 
